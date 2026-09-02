@@ -1,0 +1,20 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-pointed-triangle",
+  "name": "Pointed Triangle",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "A tall, sharply pointed triangular mark for spikes and accents.",
+  "author": "HereLiesAz",
+  "targetApps": ["com.hereliesaz.graffux"],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": ["triangle","stamp","geometric"],
+      "params": { "spacing": 0.15, "roundness": 1, "flowByPressure": false }
+    }
+  ]
+}

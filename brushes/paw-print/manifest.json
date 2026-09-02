@@ -1,0 +1,20 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-paw-print",
+  "name": "Paw Print",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "A soft organic paw-print stamp for marking and texture accents.",
+  "author": "HereLiesAz",
+  "targetApps": ["com.hereliesaz.graffux"],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": ["paw","stamp","organic"],
+      "params": { "spacing": 0.15, "roundness": 1, "flowByPressure": false }
+    }
+  ]
+}

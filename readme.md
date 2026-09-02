@@ -6,5 +6,7 @@ Brush packages for the "ink-and-marker" collection, each in its own `brushes/<sl
 - `brushes/paint-pen/` — **Paint Pen** — A bold, opaque paint pen dot — solid coverage with a hard edge.
 - `brushes/ink-sumi/` — **Sumi Brush** — A flattened bristle-textured ink brush. Rotate with the angle param.
 - `brushes/china-marker/` — **China Marker** — A waxy grease-pencil tip with an irregular, grainy edge.
+- `brushes/paw-print/` — **Paw Print** — A soft organic paw-print stamp for marking and texture accents.
+- `brushes/pointed-triangle/` — **Pointed Triangle** — A tall, sharply pointed triangular mark for spikes and accents.
 
 `node build.js` packs every subfolder into its own `.azp`.
