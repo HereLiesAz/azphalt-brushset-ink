@@ -1,0 +1,31 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-ink-sumi",
+  "name": "Sumi Brush",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "A flattened bristle-textured ink brush. Rotate with the angle param.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "ink",
+        "sumi",
+        "bristle"
+      ],
+      "params": {
+        "spacing": 0.1,
+        "angle": 0,
+        "roundness": 0.36,
+        "flowByPressure": true
+      }
+    }
+  ]
+}

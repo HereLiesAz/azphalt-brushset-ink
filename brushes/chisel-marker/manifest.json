@@ -1,0 +1,31 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-chisel-marker",
+  "name": "Chisel Marker",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "A flat chisel-tip marker. Rotate with the angle param for thick-to-thin strokes.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "marker",
+        "chisel",
+        "hard-edge"
+      ],
+      "params": {
+        "spacing": 0.03,
+        "angle": 0,
+        "roundness": 0.24,
+        "flowByPressure": false
+      }
+    }
+  ]
+}

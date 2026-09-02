@@ -1,0 +1,9 @@
+{
+  "name": "@azphalt/azphalt-brush-ink-and-marker",
+  "version": "1.0.0",
+  "description": "4 azphalt brush packages: Chisel Marker, Paint Pen, Sumi Brush, China Marker.",
+  "private": false,
+  "scripts": {
+    "build": "node build.js"
+  }
+}
